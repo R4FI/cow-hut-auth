@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Assignment_4",
+			"path": "."
+		},
+		{
+			"name": ".vscode",
+			"path": "../../Project/Project1/university-management-auth-service/.vscode"
+		},
+		{
+			"name": ".husky",
+			"path": "../../Project/Project1/university-management-auth-service/.husky"
+		}
+	],
+	"settings": {}
+}
